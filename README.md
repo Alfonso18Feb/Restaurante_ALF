@@ -27,3 +27,4 @@
 # **Tips:**
 ## *Hay consumidores que solo van para hablar con sus compis y pueden compartir el mismo plato. Tambien hay veces que unas personas pidan mucha comida porque tienen hambre*
 ## *Por eso en el histograma de los pedidos puede que no te salgan el mismo numero de clientes esperados*
+## *Tambien veras a personas con mismo nombre debido a que estos nombres son comunes asi que es muy probable que se repitan*
