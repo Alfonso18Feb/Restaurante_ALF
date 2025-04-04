@@ -20,4 +20,10 @@
 ## **Cuando llagan los platos las personas suelen tardar 5 minutos antes de salir del restaurante dejando a otras personas entrar**
 
 # **Como se corre el programas**
-*En el programa sin que haya condiciones de carrera aparecen todas las personas que entran piden y se van para dejar otras mas pasar*
+## *En el programa sin que haya condiciones de carrera aparecen todas las personas que entran piden y se van para dejar otras mas pasar*
+# **Programacion distribuida**
+## **Utilizamos Product-Consumer para que las personas que hayan reservado puedan pedir su comida favorita y ser servida por nuestros grandes cocineros**
+## *Es muy util para ver que estemos cuidando a cada consumidor como si fuese un consumidor especial para nuestro restaurante*
+# **Tips:**
+## *Hay consumidores que solo van para hablar con sus compis y pueden compartir el mismo plato. Tambien hay veces que unas personas pidan mucha comida porque tienen hambre*
+## *Por eso en el histograma de los pedidos puede que no te salgan el mismo numero de clientes esperados*
