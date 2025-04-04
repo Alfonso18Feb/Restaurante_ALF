@@ -10,3 +10,7 @@ Ensalades: Cesar, Wolskiana, Tartavia y muchas mas
 Pasta: spaghetti, Fusilli, Farfalle, Penne, Rigatoni, Caracolas y Tagliatelle
 Bocadilllos: Big cheese burger, ALF burger, ALF BIG sandwich
 Platos especiales: Pizza y lasagna**
+## **Funcion Programa**
+*Los clientes son hilos que si han reservado la mesa para un grupo de personas(amigos) pues esperan a que todos esten para pedir juntos.*
+*Luego si no tienes reservado tienes que esperar a que los clientes salgan del restauranete y haya espacio*
+**Los cocineros iran cocinando sus pedidos el problema esque solo hay un horno(Mutex),tres fuegos( semaphoro(**Carnes y pasta*)),Un bocadillero(Mutex(bocadillos)), finalmente un ensaladarALF(donde se hacen las ensaladas)**
