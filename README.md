@@ -16,4 +16,8 @@ Platos especiales: Pizza y lasagna**
 *Luego si no tienes reservado tienes que esperar a que los clientes salgan del restauranete y haya espacio*
 
 *Los cocineros iran cocinando sus pedidos el problema esque solo hay un horno(Mutex),tres fuegos( semaphoro(**Carnes y pasta*)),Un bocadillero(Mutex(bocadillos)), finalmente un ensaladarALF(donde se hacen las ensaladas)**
+
 **Cuando llagan los platos las personas suelen tardar 5 minutos antes de salir del restaurante dejando a otras personas entrar**
+
+## **Como se corre el programas**
+*En el programa sin que haya condiciones de carrera aparecen todas las personas que entran piden y se van para dejar otras mas pasar*
